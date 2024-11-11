@@ -1,2 +1,2 @@
 # NN_MEIL
-Programs created during Neural Ntework subject
+Programs created during Neural Netework subject
