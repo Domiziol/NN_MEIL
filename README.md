@@ -1,2 +1,2 @@
 # NN_MEIL
-Programs created during Neural Networks subject
+Programs created during Neural Networks course
